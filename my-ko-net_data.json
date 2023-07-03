@@ -1,34 +1,18 @@
 {
-  "title": "OracleGamer",
+  "title": "My-ko Net",
   "notices":
   [
       {
-        "title": "Yeni Holy Gift Box - Kirdirilabilir Esya",
-        "url": "https://forum.oraclegamer.net/threads/296155"
-      },
-      {
-        "title": "Yeni Exceptional Hepas Box - Kirdirilabilir Esya",
-        "url": "https://forum.oraclegamer.net/threads/296153"
-      },
-      {
-        "title": "8vs8 Melee Birinci Turnuvasi Kazananlari Belirlendi",
-        "url": "https://forum.oraclegamer.net/threads/295702"
-      },
-      {
-        "title": "Automatic Fishing Droplari Guncellendi! (Oto fish)",
-        "url": "https://forum.oraclegamer.net/threads/295702"
-      },
-      {
-        "title": "16.01.2022 Guncelleme Notlari",
-        "url": "https://forum.oraclegamer.net/threads/295702"
-      }	  
+        "title": "New Server",
+        "url": "#"
+      } 
   ],
   "webs":
   {
-    "website": "https://www.oraclegamer.net/",
-    "facebook": "https://www.facebook.com/OracleGamerOyuncuPlatformu",
-    "youtube": "https://www.youtube.com/c/OracleGamer2014",
-    "live": "https://trovo.live/OracleGamer2022",
-    "discord": "https://discord.gg/AfwKAZS8"
+     "website": "https://www.my-ko.net/",
+    "facebook": "https://www.facebook.com/v1098MYKO",
+    "youtube": "https://www.youtube.com/channel/UC4BHq-zX_blvfUYUIiSfyOQ",
+    "live": "https://trovo.live/s/GAJEEL-Redfox/224043584",
+    "discord": "https://discord.gg/My-KO.Net"
   }
 }
